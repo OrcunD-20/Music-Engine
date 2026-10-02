@@ -10,9 +10,9 @@ This repository is the public portfolio showcase. The full composition engine is
 
 | Track | Audio |
 | --- | --- |
-| Prototype 1 | [Listen / download MP3](examples/prototype-output-1.mp3) |
-| Prototype 3 | [Listen / download MP3](examples/prototype-song-1.mp3) |
-| Prototype 10 | [Listen / download MP3](examples/prototype-song-10.mp3) |
+| Prototype Output 1 | [Listen / download MP3](examples/prototype-output-1.mp3) |
+| Prototype Output 3 | [Listen / download MP3](examples/prototype-song-1.mp3) |
+| Prototype Output 10 | [Listen / download MP3](examples/prototype-song-10.mp3) |
 
 GitHub may offer a download instead of an audio player. A separate [MIDI example](examples/prototype-song-0.mid) can be opened in a DAW or MIDI player. These outputs come from the original prototype; their settings and seeds were not recorded, and the MIDI is not claimed to match any of the MP3s.
 
