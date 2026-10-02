@@ -1,0 +1,1 @@
+# Public demo: Python 3.10+ standard library only; no pip dependencies.
